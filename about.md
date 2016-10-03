@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![Sin titulo](https://github.com/marinanierod/marina.github.io/blob/master/fotocv.jpg?raw=true)
+![Sin titulo](https://marinanierod.github.io/fotocv.jpg)
  
  Diplomatura Magisterio Musical (2012).  
  Técnico Superior Administración de Sistemas Informáticos en Red (2017).
